@@ -1,0 +1,5 @@
+factory\AutobotFactory.class
+com\mycompany\transformers\Transformers.class
+factory\LeaderFactory.class
+com\mycompany\transformers\modelos\Autobot.class
+com\mycompany\transformers\modelos\Leader.class
